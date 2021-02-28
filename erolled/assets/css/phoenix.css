@@ -1,0 +1,20 @@
+html {
+  background-color: black;
+  color: #ff8fff;
+}
+
+button {
+  background-color: black;
+  color: #ff8fff;
+  font-size: xx-large;
+  border: solid 1px #ff8fff;
+  border-radius: 20px;
+  padding: 10px;
+  width: 450px;
+  height: 200px;
+}
+
+button:hover {
+  color: #8ff8ff;
+  border: solid 1px #8ff8ff;
+}
